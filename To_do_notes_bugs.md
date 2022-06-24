@@ -3,6 +3,13 @@
 - [ ] EXPERIENCE page
 - [ ] PROJECT page
 - [ ] EDUCATION page
+- [ ] Config
+      - [ ] maybe add “/about” as permalink 
+      - [ ] Change text below social icons
+- [ ] Unknown place to change
+      - [ ] change font and icon color (when cursor is on them) in light mode!
+      - [ ] Decrease size of social icons on “about” page
+
 ___
 
 # Notes
