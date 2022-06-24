@@ -1,5 +1,6 @@
 # To Dos
 - [ ] ABOUT page
+      - [ ] correct links to subpages have to be added 
 - [ ] EXPERIENCE page
 - [ ] PROJECT page
 - [ ] EDUCATION page

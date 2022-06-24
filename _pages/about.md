@@ -8,7 +8,7 @@ profile:
   align: right
   image: about.jpg
   address: >
-    <p>Impressum:</p>
+    <p><b>Impressum:</b></p>
     <p>Subbelrather Str.</p>
     <p>50825 Köln</p>
 
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome on my website!
 
-I am Alexander Dalheimer and I am currently finishing my Master's in Political Science at the University of Cologne. Before I moved to Cologne, I studied Politics & Public Administration at the University of Konstanz and Charles University, Prague.
+I am <b>Alexander Dalheimer</b> and I am currently finishing my Master's in Political Science at the University of Cologne. Before I moved to Cologne, I studied Politics & Public Administration at the University of Konstanz and Charles University, Prague.
 
 My research interests focus on democratic representation, political & legislative behavior, party competition and political communication of parties and members of parliament (MPs). Especially, I am interested in how democratic insitutions shape the behavior of voters, legislators, political parties or other social groups. 
 
