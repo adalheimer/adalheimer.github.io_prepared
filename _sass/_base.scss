@@ -582,3 +582,28 @@ html.transition *:after {
     }
   }
 }
+
+
+
+
+
+
+// ---------------------------------------------------------------------------------------
+
+/* Flexbox classes for images in rows and columns */
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 25%;
+  padding: 25px;
+  text-align: center;
+  
+}
+
+/* Define text below image */
+.img-with-text {
+  text-align: justify;
+  width: [width of img];
+}

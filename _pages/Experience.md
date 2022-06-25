@@ -13,10 +13,10 @@ horizontal: false
 
 
 <!-- Empty line -->
-<br/>
+<br/><br/>
 
 ___
-<h3><b>WORK EXPERIENCE</b></h3>
+<h3>WORK EXPERIENCE</h3>
 ___
 
 <!-- Empty line -->
@@ -85,7 +85,7 @@ Intern as election campaign assistent for the Bundestag candidate Martin Schwedi
 <br/><br/>
 
 ___
-<h3><b>PROGRAMMING LANGUAGES</b></h3>
+<h3>PROGRAMMING LANGUAGES</h3>
 ___
 
 <!-- Empty line -->
@@ -98,9 +98,9 @@ ___
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/python_logo.png" width="10%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/images/latex_logo.png" width="10%">
+  <img alt="Dark" src="/images/latex_logo2.png" width="10%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/images/markdown_logo.png" width="10%">
+  <img alt="Dark" src="/images/markdown_logo_removed_background.png" width="10%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/html_css.png" width="10%">
 </p>
@@ -110,16 +110,16 @@ ___
 
 
 <!-- Empty line -->
-<br/>
+<br/><br/>
 
 ___
-<h3><b>STATISTICAL/DATA SCIENCE EXPERTISE </b></h3>
+<h3>STATISTICAL/DATA SCIENCE EXPERTISE</h3>
 ___
 
 <!-- Empty line -->
 <br/>
 
 <p align="center">
-  <img alt="Light" src="/images/Wordcloud3.png" width="70%">
+  <img alt="Light" src="/images/Wordcloud3_removed_background.png" width="70%">
 </p>
 

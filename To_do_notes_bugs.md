@@ -2,8 +2,10 @@
 - [ ] ABOUT page
       - [ ] correct links to subpages have to be added 
 - [ ] EXPERIENCE page
+      - [ ] Remove background of images (wordcloud fnished)
 - [ ] PROJECT page
 - [ ] EDUCATION page
+      - [ ] Certificates need to be added
 - [ ] Config
       - [ ] maybe add “/about” as permalink 
       - [ ] Change text below social icons
