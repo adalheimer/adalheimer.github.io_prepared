@@ -9,7 +9,7 @@ profile:
   image: about.jpg
   address: >
     <p><b>Impressum:</b></p>
-    <p>Subbelrather Str.</p>
+    <p>Subbelrather Straße</p>
     <p>50825 Köln</p>
 
 news: false  # includes a list of news items

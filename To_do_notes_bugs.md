@@ -2,16 +2,21 @@
 - [ ] ABOUT page
       - [ ] correct links to subpages have to be added 
 - [ ] EXPERIENCE page
-      - [ ] Remove background of images (wordcloud fnished)
+      - [x] Remove background of images (wordcloud fnished)
 - [ ] PROJECT page
+      - [ ] needs to be created
 - [ ] EDUCATION page
-      - [ ] Certificates need to be added
+      - [x] Certificates need to be added
 - [ ] Config
       - [ ] maybe add “/about” as permalink 
-      - [ ] Change text below social icons
+      - [x] Change text below social icons
 - [ ] Unknown place to change
-      - [ ] change font and icon color (when cursor is on them) in light mode!
-      - [ ] Decrease size of social icons on “about” page
+      - [x] change font and icon color (when cursor is on them) in light mode!
+      - [x] Decrease size of social icons on “about” 
+- [ ]  Remove not wanted pages
+      - [ ]  “projects” but keep code for later use!
+      - [ ] “teaching"
+      - [ ] “submenues” but keep code for later use!
 
 ___
 

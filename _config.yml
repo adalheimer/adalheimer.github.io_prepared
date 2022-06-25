@@ -6,14 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Alexander
 middle_name: 
 last_name: Dalheimer
-email: you@example.com
+email: adalheim@smail.uni-koeln.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Portfolio website of Alexander Dalheimer, Master student of political science at University of Cologne. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: political science, data science, statistics, university of Cologne, university of Konstanz, parliamentary debates, text-as-data, NLP, machine learning, representation, legislative behavior, political institutions   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -73,7 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to contact me via E-Mail, LinkedIn or Twitter!
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
