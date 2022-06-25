@@ -28,6 +28,10 @@ ___
 4. Execute Jekyll `bundle exec jekyll serve` which looks at all html, markdown and css files and combines them to one website
 5. 
 
+**Template for pages**
+- Page templates that are not used currently are stored in the folder *compressed* folder *Pages not included* 
+      -  Note that *compressing* is necessary since otherwise the pages are rendered although not in the correct folder
+- 
 ___
 
 # Bug Report
