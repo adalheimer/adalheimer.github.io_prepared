@@ -101,9 +101,15 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
+#<<<<<<< external-blog-posts
 #external_sources:
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
+
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -173,15 +179,35 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
+#<<<<<<< external-blog-posts
+# Extras
+github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
 
-jekyll-minifier:
-  exclude: ['robots.txt']
-  uglifier_args:
-    harmony: true
+#<<<<<<< external-blog-posts
+# HTML remove comments (<!-- .... -->)
+#remove_HTML_comments: false
+
+# HTML beautifier (_plugins/beautify.rb).
+# Source: https://github.com/threedaymonk/htmlbeautifier
+#beautify: false # This function has conflict with the code snippets, they can be displayed incorrectly
+
+# HTML minify (_plugins/minify.rb).
+# Source: https://www.ffbit.com/blog/2021/03/17/html-minification-in-jekyll.html
+#minify: false
+
+# CSS/SASS minify
+#sass:
+#  style: compressed
+#=======
+#jekyll-minifier:
+#  exclude: ['robots.txt']
+#  uglifier_args:
+#    harmony: true
+#>>>>>>> master
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
