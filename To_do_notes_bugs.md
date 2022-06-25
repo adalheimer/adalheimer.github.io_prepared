@@ -4,7 +4,7 @@
 - [ ] EXPERIENCE page
       - [x] Remove background of images (wordcloud fnished)
 - [ ] PROJECT page
-      - [ ] needs to be created
+      - [x] needs to be created
 - [ ] EDUCATION page
       - [x] Certificates need to be added
 - [ ] Config
