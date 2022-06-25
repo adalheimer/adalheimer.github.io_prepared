@@ -13,6 +13,7 @@
 - [ ] Unknown place to change
       - [x] change font and icon color (when cursor is on them) in light mode!
       - [x] Decrease size of social icons on “about” 
+      - [ ] Change flavicon for browser tab
 - [ ]  Remove not wanted pages
       - [ ]  “projects” but keep code for later use!
       - [ ] “teaching"
