@@ -27,7 +27,7 @@ My research interests focus on democratic representation, political & legislativ
 
 My research is characterized by advanced and innovative quantitative research designs. A wide variety of methods from (non-)linear regression, hierarchical and time-series models to machine learning and text-as-data approaches were used in multiple [projects](LINK). I am very interested in developing new methods and measurements and refining existing methodological approaches. Currently, I am further developing the approach of Peterson & Spierling (2018) to measure the degree of polarization based on parliamentary debates. 
 
-On this website, you find information about my [education](LINK), [experiences and skills](LINK) as well as about [projects](LINK) I realized during my studies. 
+On this website, you find information about my [education](adalheimer.github.io/education/), [experiences & skills](adalheimer.github.io/experience/) as well as about [projects](adalheimer.github.io/projects/) I realized during my studies. 
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

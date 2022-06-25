@@ -1,6 +1,6 @@
 # To Dos
 - [ ] ABOUT page
-      - [ ] correct links to subpages have to be added 
+      - [x] correct links to subpages have to be added 
 - [ ] EXPERIENCE page
       - [x] Remove background of images (wordcloud fnished)
 - [ ] PROJECT page
@@ -14,10 +14,10 @@
       - [x] change font and icon color (when cursor is on them) in light mode!
       - [x] Decrease size of social icons on “about” 
       - [ ] Change flavicon for browser tab
-- [ ]  Remove not wanted pages
-      - [ ]  “projects” but keep code for later use!
-      - [ ] “teaching"
-      - [ ] “submenues” but keep code for later use!
+- [x]  Remove not wanted pages
+      - [x]  “projects” but keep code for later use!
+      - [x] “teaching"
+      - [x] “submenues” but keep code for later use!
 
 ___
 
@@ -36,6 +36,6 @@ ___
 ___
 
 # Bug Report
-- [ ] “about" page is not displayed properly 
+- [x] “about" page is not displayed properly 
 - [ ] 
 ___
